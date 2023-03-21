@@ -1,0 +1,33 @@
+[
+    {
+        "name":"M3",
+        "price":10000,
+        "feature":true,
+        "company":"samsung"
+    },
+
+    {
+        "name":"Iphone",
+        "price":1555,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"Iphone12",
+        "price":1555557,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"redmi",
+        "price":1675,
+        "feature":true,
+        "company":"mi"
+    },
+    {
+        "name":"watch",
+        "price":1555,
+     
+        "company":"apple"
+    }
+]
